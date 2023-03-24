@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohamdixit24
-- 👀 I’m interested in development especially when it comes to Mobile Development(Flutter) & Cyber Security.
+- 👀 I’m interested in development especially when it comes to Mobile App Development(Flutter) & Cyber Security.
 - 🌱 I’m currently learning Development Stuffs and upgrading myself.
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
