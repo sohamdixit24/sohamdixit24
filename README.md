@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @sohamdixit24
-- 👀 I’m interested in development especially when it comes to Mobile App Development(Flutter) & Cyber Security.
-- 🌱 I’m currently learning React/Node JS.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : sohamdixit24@gmail.com
+# Hi, I’m @sohamdixit24
 
-<!---
-sohamdixit24/sohamdixit24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 **Mobile App Developer** specializing in **Flutter**, focused on building high-performance, cross-platform apps.
+- 🔐 Passionate about **Cybersecurity** and enhancing app security.
+- 🌱 Currently exploring **Node.js** and **Spring Boot** to expand my backend development skills.
+- 💡 Open to collaborations on innovative tech projects.
+
+📫 Reach me at: [sohamdixit24@gmail.com](mailto:sohamdixit24@gmail.com)
